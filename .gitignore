@@ -24,3 +24,6 @@ out/
 
 # Mac stuff
 .DS_store
+
+# Misc
+build.xml
