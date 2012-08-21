@@ -3,6 +3,12 @@ QBCustomObjectsSample
 
 This sample demonstrates basic REST QuickBlox API requests for CustomObjects module.
 
+**Before run this sample, go to [QB admin panel](https://admin.quickblox.com/) with following credentials**
+
+* login: **testcoobj**
+* passwod: **testcoobj**
+
+
 After running this code you should get log similar to following
 
 ```

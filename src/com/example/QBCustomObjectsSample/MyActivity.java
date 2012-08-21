@@ -13,7 +13,7 @@ import java.util.Random;
 
 public class MyActivity extends Activity {
 
-    // !!! Before run this sample, go to QB admin panel woth following credentials !!!
+    // !!! Before run this sample, go to QB admin panel with following credentials !!!
     // https://admin.quickblox.com/
     // login: testcoobj
     // passwod: testcoobj
